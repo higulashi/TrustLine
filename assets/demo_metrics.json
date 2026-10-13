@@ -1,0 +1,13 @@
+{
+  "track": "s_bend",
+  "scenario": "mixed",
+  "seed": 11,
+  "method": "no_risk",
+  "status": "finished",
+  "time_s": 11.36,
+  "progress_x_m": 12.016,
+  "rmse_m": 0.00880948711186112,
+  "max_error_m": 0.02827520358048417,
+  "steer_total_variation_rad": 4.409373402167783,
+  "mean_speed_m_s": 1.1132963761589303
+}

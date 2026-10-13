@@ -1,0 +1,18 @@
+{
+  "platform": "Windows-11-10.0.26200-SP0",
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "timing": {
+    "c_extract_with_ctypes": {
+      "median_us": 16.8,
+      "p95_us": 18.2,
+      "samples": 2000
+    },
+    "c_control_with_ctypes": {
+      "median_us": 5.2,
+      "p95_us": 6.704999999999996,
+      "samples": 2000
+    }
+  },
+  "scope": "desktop measured wall-time including Python wrappers; no MCU timing claim"
+}

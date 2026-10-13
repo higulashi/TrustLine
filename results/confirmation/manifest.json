@@ -1,0 +1,14 @@
+{
+  "python": "3.12.14",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "source_sha256": {
+    "core/trustline.c": "5dfd92ccf0bc428aea35d597b6ca759392d1919973d4b8b1e4c2ff5ea7374b5d",
+    "core/trustline.h": "a61be8da7ea578e15e7528e9a44d29781fe1cbcd3abf95f4b90fa0585691af5a",
+    "trustline/native.py": "12ddefdd76ba78646d9089069d4a4d82da011b2f5ebdba146a019d2505c9ae24",
+    "trustline/simulator.py": "dc7cc03d8c353b73ae243f79c1e90ae690a6130f2ecd1306da06a5eba6576bcd",
+    "trustline/vision.py": "c92791613ef20c73a1d84bf251ce0be1fdb54b4268904c24750a25cab4a792ab",
+    "trustline/__init__.py": "89f9de363a7529f91d7fc69df72e4ed0699329aa7260cb230cd23483d1545d36"
+  },
+  "evaluation_runs": 720,
+  "notes": "CPU desktop simulation; no target-board timing or real-car validation"
+}

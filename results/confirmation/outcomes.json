@@ -1,0 +1,53 @@
+{
+  "fixed": {
+    "status_counts": {
+      "finished": 58,
+      "off_track": 62
+    },
+    "completion_rate": 0.48333333333333334,
+    "mean_finish_time_s": 9.228275862068966
+  },
+  "regulated": {
+    "status_counts": {
+      "finished": 57,
+      "off_track": 63
+    },
+    "completion_rate": 0.475,
+    "mean_finish_time_s": 7.596140350877193
+  },
+  "trustline": {
+    "status_counts": {
+      "finished": 72,
+      "off_track": 19,
+      "stalled": 29
+    },
+    "completion_rate": 0.6,
+    "mean_finish_time_s": 9.178055555555556
+  },
+  "no_risk": {
+    "status_counts": {
+      "finished": 71,
+      "off_track": 18,
+      "stalled": 31
+    },
+    "completion_rate": 0.5916666666666667,
+    "mean_finish_time_s": 9.140281690140846
+  },
+  "no_visibility": {
+    "status_counts": {
+      "finished": 55,
+      "off_track": 65
+    },
+    "completion_rate": 0.4583333333333333,
+    "mean_finish_time_s": 7.597818181818182
+  },
+  "matched_policy": {
+    "status_counts": {
+      "finished": 58,
+      "off_track": 28,
+      "stalled": 34
+    },
+    "completion_rate": 0.48333333333333334,
+    "mean_finish_time_s": 8.881379310344828
+  }
+}

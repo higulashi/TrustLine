@@ -1,0 +1,37 @@
+{
+  "seeds": [
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208
+  ],
+  "tracks": [
+    "s_bend",
+    "tight",
+    "sweep"
+  ],
+  "scenarios": [
+    "clean",
+    "shadow",
+    "dropout",
+    "distractor",
+    "mixed"
+  ],
+  "methods": [
+    "fixed",
+    "regulated",
+    "trustline",
+    "no_risk",
+    "no_visibility",
+    "matched_policy"
+  ],
+  "dt_s": 0.02,
+  "limit_s": 30,
+  "finish_x_m": 12,
+  "offtrack_error_m": 0.16,
+  "test_type": "synthetic grayscale closed-loop kinematic bicycle"
+}

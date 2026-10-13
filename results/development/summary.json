@@ -1,0 +1,37 @@
+{
+  "fixed": {
+    "runs": 15,
+    "finished": 9,
+    "completion_rate": 0.6,
+    "mean_finish_time_s": 9.237777777777778,
+    "mean_rmse_m_all": 0.02393717762730445
+  },
+  "regulated": {
+    "runs": 15,
+    "finished": 8,
+    "completion_rate": 0.5333333333333333,
+    "mean_finish_time_s": 7.6025,
+    "mean_rmse_m_all": 0.024414578353845178
+  },
+  "trustline": {
+    "runs": 15,
+    "finished": 9,
+    "completion_rate": 0.6,
+    "mean_finish_time_s": 9.157777777777778,
+    "mean_rmse_m_all": 0.029741833335905726
+  },
+  "no_risk": {
+    "runs": 15,
+    "finished": 9,
+    "completion_rate": 0.6,
+    "mean_finish_time_s": 9.144444444444444,
+    "mean_rmse_m_all": 0.033206498447318725
+  },
+  "no_visibility": {
+    "runs": 15,
+    "finished": 8,
+    "completion_rate": 0.5333333333333333,
+    "mean_finish_time_s": 7.6125,
+    "mean_rmse_m_all": 0.02613690560334586
+  }
+}

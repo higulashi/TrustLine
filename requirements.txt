@@ -1,0 +1,4 @@
+numpy>=1.26,<3
+Pillow>=10,<13
+ziglang>=0.13,<0.17
+# Optional real-frame reader: pip install opencv-python-headless
